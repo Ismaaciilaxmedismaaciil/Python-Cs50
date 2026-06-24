@@ -66,7 +66,7 @@ I believe that consistent practice is the key to mastering programming. This rep
 
 **Ismail Ahmed Ismail**
 
-Computer Science Graduate | Aspiring AI Researcher |Machine Learning Researcher
+Computer Science Graduate | Aspiring AI Researcher | Machine Learning Researcher
 
 ---
 
