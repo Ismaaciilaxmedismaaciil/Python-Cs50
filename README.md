@@ -42,7 +42,7 @@ Python-Cs50/
 ## 🚀 Progress
 
 * [x] Functions and Variables
-* [ ] Conditionals
+* [x] Conditionals
 * [ ] Loops
 * [ ] Exceptions
 * [ ] Libraries
